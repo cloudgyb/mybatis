@@ -2,4 +2,4 @@
 .classpath
 .setting
 **/target
-.iml
+*.iml
