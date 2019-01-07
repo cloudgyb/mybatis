@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface TestMapper {
 
-    public User selectById(int id);
+    User selectById(int id);
 
     List<User> selectAll();
 }
